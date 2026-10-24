@@ -6,5 +6,5 @@ color:"#f6f3e8",
 },
 
 
-addRecipe("vinegar+milk=cheese")          
+addRecipe("vinegar,milk" , "cheese")          
 );              
