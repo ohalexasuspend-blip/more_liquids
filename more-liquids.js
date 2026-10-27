@@ -3,7 +3,7 @@
 addIngredient("vinegar",{
 type:"liquid", 
 color:"#f6f3e8" // normal vinegar color
-}),
+});
 
 
 addIngridient("expired_milk",{
