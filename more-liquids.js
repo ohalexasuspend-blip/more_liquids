@@ -6,10 +6,11 @@ color:"#f6f3e8" // normal vinegar color
 });
 
 
-addIngridient("expired_milk",{
+addIngredient("expired_milk",{
 type:"liquid",
 color:"#cfe0b0"
 });
 
 
 addRecipe("vinegar+milk","cheese");
+addRecipe("expired_milk+bacteria","milk");
