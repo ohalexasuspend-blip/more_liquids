@@ -13,4 +13,4 @@ color:"#cfe0b0"
 
 
 addRecipe("super_water+flour","dough");
-addRecipe("expired_milk+bacteria","milk");
+addRecipe("expired_milk+bacteria","milk"); // Ignore this mix i didn't know what thing i should mix expired milk with
