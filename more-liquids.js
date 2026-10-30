@@ -1,8 +1,8 @@
 
 // A mod that adds more liquids and recipes with them. Will be updated in the future. Created by Gfdcvn.
-addIngredient("vinegar",{
+addIngredient("super_water",{
 type:"liquid", 
-color:"#f6f3e8" // normal vinegar color
+color:"#9fabfa" // normal color
 });
 
 
@@ -12,5 +12,5 @@ color:"#cfe0b0"
 });
 
 
-addRecipe("vinegar+milk","cheese");
+addRecipe("super_water+flour","dough");
 addRecipe("expired_milk+bacteria","milk");
